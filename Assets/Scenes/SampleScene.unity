@@ -548,7 +548,9 @@ MonoBehaviour:
   m_Text: 'Press Left Shift While hold W/A/S/D to Flash to that direction
 
     Press
-    J to jump in the air'
+    J to jump in the air
+
+    Jump to the green platform to win'
 --- !u!222 &421275719
 CanvasRenderer:
   m_ObjectHideFlags: 0
